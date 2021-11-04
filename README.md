@@ -6,7 +6,7 @@ I am an undergraduate student at East-West University's Department of Computer S
 
  ### Skills & Experiance:
 
-✅ Python ✅  Django ✅ WordPress ✅ JavaScript ✅ PHP ✅ HTML5 / CSS3 / SASS / Bootstrap ✅ Photoshop / Illustrator
+✅ Python <br> ✅  Django <br> ✅ WordPress <br> ✅ JavaScript <br> ✅ PHP <br> ✅ HTML5 / CSS3 / SASS / Bootstrap <br> ✅ Photoshop / Illustrator <br>
 
 🔭 I’m currently working at East West University. 
 
