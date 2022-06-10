@@ -1,12 +1,16 @@
 <img src="Brown Minimalist Personal Photo Profile LinkedIn Banner.png" alt="" /> </a><p align="center"> 
 
-<h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="15px" ></a>, I'm Syeda Tamanna Sheme </h1>
+<h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="55px" ></a> , I'm Syeda Tamanna Sheme </h1>
 
 <h3 align="center">Web Developer</h3>
 <br />
 <br />
 
-[![Github](https://img.shields.io/github/followers/progmamun?label=Follow&style=social)](https://github.com/progmamun)&nbsp;![Profile views](https://gpvc.arturio.dev/progmamun)
+
+[![Github](https://github.com/TamannaSheme)](https://github.com/progmamun)&nbsp; &nbsp; &nbsp; &nbsp;![Profile views](https://syedatamannasheme.netlify.app/)
+
+### I am an undergraduate student at East-West University's Department of Computer Science and Engineering, as well as an undergraduate teaching assistant. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm also a Front End Web Developer who is obsessed with creating error-free websites. I'm passionate about learning and sharing what I've learned with as many people as possible. I enjoy solving challenges in the real world. I am strategic and goal-oriented, and I constantly work for a common goal. I take pride in producing high-quality work and keeping effective communication.
+
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
