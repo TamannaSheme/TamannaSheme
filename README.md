@@ -11,11 +11,11 @@
  I am an undergraduate student at East-West University's Department of Computer Science and Engineering, as well as an undergraduate teaching assistant. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm also a Front End Web Developer who is obsessed with creating error-free websites. I'm passionate about learning and sharing what I've learned with as many people as possible. I enjoy solving challenges in the real world. I am strategic and goal-oriented, and I constantly work for a common goal. I take pride in producing high-quality work and keeping effective communication.
 
 
-🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
+🌱 I’m currently learning [MERN Stack Developing] And [DevOps](https://www.google.com/search?q=DevOps)
 
 💬 Ask me about **Web Solutions**
 
-📫 How to reach me: progmamun@gmail.com
+📫 How to reach me: shemesyedatamanna@gmail.com
 
 ⚡ Fun fact **I Think i'm funny too :)**
 <br/><br/>
@@ -46,10 +46,10 @@
 <br/> <br/>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><a href="mailto:progmamun@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="30"/></a>&nbsp;<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><img align="center" src="https://rawcdn.githack.com/progmamun/demo/bb7255483e0e917d6dab306620eb7ae8b94ba04c/storage/tempfiles/Asset%2019rgblogo.jpg" height="30" width="40" /></a><a href="https://twitter.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AlmamunkhanDev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlmamunkhanDev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progmamun" height="30" width="40" /></a>
+<p align="center"><a href="mailto:shemesyedatamanna@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="30"/></a>&nbsp;<a href="https://www.linkedin.com/in/syeda-tamanna-sheme-606923202/" target="_blank" rel="noopener"><img align="center" src="" height="30" width="40" /></a><a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tamanna.sheme.10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlmamunkhanDev" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progmamun" height="30" width="40" /></a>
 </p>
 <br>
 <br />
@@ -58,8 +58,8 @@
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td><img alt="Tamanna :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="Tamanna :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=blue-green&hide_border=true"></td>
