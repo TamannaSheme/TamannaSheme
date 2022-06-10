@@ -1,6 +1,6 @@
 <img src="Brown Minimalist Personal Photo Profile LinkedIn Banner.png" alt="" /> </a><p align="center"> 
 
-<h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="5px" ></a>, I'm Syeda Tamanna Sheme </h1>
+<h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px" height="15px" ></a>, I'm Syeda Tamanna Sheme </h1>
 
 <h3 align="center">Web Developer</h3>
 <br />
