@@ -1,4 +1,4 @@
-<img src="Brown Minimalist Personal Photo Profile LinkedIn Banner.png" alt="" /> </a><p align="center"> 
+<img src="Programming Hero.jfif" alt="" /> </a><p align="center"> 
 
 <h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm Syeda Tamanna Sheme </h1>
 
