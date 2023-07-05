@@ -1,6 +1,6 @@
 <img src="Banner.png" alt="" /> </a><p align="center"> 
 
-<h1 align="center">Hi There<a> <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://github.com/TamannaSheme/TamannaSheme/blob/main/Banner.png)" width="35px" height="40px" ></a> , I'm Syeda Tamanna Sheme </h1>
+<h1 align="center">Hi There<a> <img src="[[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://github.com/TamannaSheme/TamannaSheme/blob/main/Banner.png)](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="35px" height="40px" ></a> , I'm Syeda Tamanna Sheme </h1>
 
 <h3 align="center"> Software Engineer || Web Developer</h3>
 <br />
