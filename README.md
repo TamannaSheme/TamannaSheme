@@ -1,58 +1,92 @@
-<img src="Banner.png" alt="" /> </a><p align="center"> 
+# 👋 Hi, I'm Syeda Tamanna Sheme!
 
-<h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm Syeda Tamanna Sheme </h1>
+## 🌟 About Me
+I am a dedicated Software Engineer currently pursuing a Master of Technology in Software Engineering at Federation University, Sydney. I am passionate about creating elegant solutions efficiently and thrive in both self-starting and collaborative environments. I am always eager to learn and take on challenging positions that build upon my engineering skills.
 
-<h3 align="center"> Software Engineer || Web Developer</h3>
-<br />
-<br />
+## 🛠 Skills
+### Technologies
+- **Expertise:** HTML5, CSS3, Bootstrap-5, Tailwind CSS, JavaScript, ES6
+- **Comfortable:** C, C++, MongoDB, Firebase, REST API, React JS
+- **Familiar:** SASS, Node JS, Python, PHP, Django, Mongoose, Express JS, Java, Material-UI
 
+### Tools
+- GitHub, VS Code, Brackets, Heroku, Netlify, Photoshop, Figma
 
+### Operating Systems
+- Windows (XP/ Windows 7, 8, 10), LINUX, Ubuntu
 
- I am an undergraduate student at East-West University's Department of Computer Science and Engineering, as well as an undergraduate teaching assistant. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm also a Front End Web Developer who is obsessed with creating error-free websites. I'm passionate about learning and sharing what I've learned with as many people as possible. I enjoy solving challenges in the real world. I am strategic and goal-oriented, and I constantly work for a common goal. I take pride in producing high-quality work and keeping effective communication.
+### Microsoft Office
+- MS Word, MS Excel, MS PowerPoint
 
+### Internet Technologies
+- E-mail, Internet Searching
 
-🌱 I’m currently learning MERN Stack And DevOps
+### Interpersonal Skills
+- Leadership, Project Management, Team Work, Communication, Negotiation
 
-💬 Ask me about **Web Solutions**
+## 📈 GitHub Stats
+![Tamanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamannaSheme&show_icons=true&theme=radical)
 
-📫 How to reach me: shemesyedatamanna@gmail.com
+## 🔭 Work Experience
+### Encoder IT Limited
+**Front-End Developer | June 01, 2023 – August 31, 2023**
+- Added new user-facing features, determined the structure and design of web pages.
+- Built reusable codes, optimized page loading times, and used various markup languages to create web pages.
+- Collaborated with other developers to update the website and create new features.
 
-⚡ Fun fact **I Think i'm funny too :)**
-<br/><br/>
+### Programming Hero
+**IT Placement Executive | July 01, 2022 – May 30, 2023**
+- Ensured user satisfaction and retention by providing responsive tech support.
+- Assisted students in solving programs and managing Bootcamp.
+- Collaborated with other developers to update the website and create new features.
 
-#### :muscle: Things I am challenging myself with:
+### East West University, Department of Computer Science and Engineering
+**Undergraduate Teaching Assistant | January 01, 2021 – May 31, 2022**
+- Assisted students in solving programs and understanding lessons.
+- Supported teachers in managing class examinations and labs.
 
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+## 🎓 Education
+- **Master of Technology (Software Engineering):** 2023 - 2025 | Federation University
+- **Bachelor of Science in Computer Science and Engineering:** 2018 - 2022 | East West University
+- **Higher Secondary School Certificate:** 2015 - 2017 | Central Women College
+- **Secondary School Certificate:** 2013 - 2015 | Jatrabari Power Development Board High School
 
-<br />
+## 🏆 Achievements
+- Awarded Board Scholarship for excellent performance in JSC, SSC, and HSC.
+- Achieved 100% Merit Scholarship for four years from East West University.
+- Certified from Learning and Earning Development Project and awarded Laptop from Bangladesh ICT Division.
+- Achieved third position in Freehand Composition Writing in Inter school competition.
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
+## 🚀 Projects
+### [Gold Coast Convention Centre](https://tamannasheme.github.io/Gold_Coast_Convention-_Center/index.html)
+- **Description:** Users can see the service section, packages, FAQ, and wedding album sections. The website is fully responsive and users can book services.
+- **Technologies:** Bootstrap, Tailwind CSS, CSS, HTML
+- [GitHub Repository](https://github.com/TamannaSheme/Gold_Coast_Convention-_Center)
 
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25"/> <img src=" 	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="25"/><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" height="25"/>
-</p>
-<br/>
+### [Fruity](https://tamannasheme.github.io/FRUIT_WEBSITE/)
+- **Description:** Users can see new fruit items, shop featured items, and find fruits on sale.
+- **Technologies:** JavaScript, Bootstrap, Tailwind CSS, CSS, HTML
+- [GitHub Repository](https://github.com/TamannaSheme/FRUIT_WEBSITE)
 
-### Other Languages I know
+### [Organic Orchard](https://github.com/TamannaSheme/Organic-Orchard)
+- **Description:** Vegetables selling website with user and admin functionalities.
+- **Technologies:** PHP, JavaScript, Bootstrap, CSS, HTML
 
-<img src="https://img.shields.io/badge/-go-lang?style=flat&logo=go&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" height="25"/> <img src="https://img.shields.io/badge/-Php-black?style=flat&logo=php&logoColor=white" height="25"/>
+### [CovidCare](https://github.com/TamannaSheme/CovidCare)
+- **Description:** Covid-19 testing and doctor advice platform with multiple user roles.
+- **Technologies:** Python, Django, MySQL, Bootstrap, CSS, HTML
+
+### [Educational Website](https://tamannasheme.github.io/Educational-Website/)
+- **Description:** Users can see courses, prices, teacher details, and connect via social media.
+- **Technologies:** JavaScript, Bootstrap, Tailwind CSS, CSS, HTML
+- [GitHub Repository](https://github.com/TamannaSheme/Educational-Website)
+
+## 📫 Connect With Me
+- **LinkedIn:** [Syeda Tamanna Sheme](https://www.linkedin.com/in/syeda-tamanna-sheme/)
+- **GitHub:** [TamannaSheme](https://github.com/TamannaSheme)
+- **Portfolio:** [syedatamannasheme.netlify.app](https://syedatamannasheme.netlify.app/)
+- **Email:** syedatsheme03@gmail.com
 
 ---
 
-<br/> <br/>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/syeda tamanna sheme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda tamanna sheme" height="30" width="44" /></a>
-<a href="https://fb.com/tamannasheme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamannasheme" height="30" width="40" /></a>
-<a href="https://www.behance.net/syeda tamanna sheme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="syeda tamanna sheme" height="30" width="40" /></a>
-</p>
-<br>
-<br />
-
-
-
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=TamannaSheme.TamannaSheme)
