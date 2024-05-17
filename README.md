@@ -1,3 +1,5 @@
+![Cover](https://path/to/your/uploaded/cover/photo.png)
+
 # 👋 Hi, I'm Syeda Tamanna Sheme!
 
 ## 🌟 About Me
@@ -5,24 +7,24 @@ I am a dedicated Software Engineer currently pursuing a Master of Technology in 
 
 ## 🛠 Skills
 ### Technologies
-- **Expertise:** HTML5, CSS3, Bootstrap-5, Tailwind CSS, JavaScript, ES6
-- **Comfortable:** C, C++, MongoDB, Firebase, REST API, React JS
-- **Familiar:** SASS, Node JS, Python, PHP, Django, Mongoose, Express JS, Java, Material-UI
+- **Expertise:** ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![Bootstrap](https://img.icons8.com/color/30/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/30/tailwindcss.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![ES6](https://img.icons8.com/color/30/es6.png)
+- **Comfortable:** ![C](https://img.icons8.com/color/30/c-programming.png) ![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png) ![MongoDB](https://img.icons8.com/color/30/mongodb.png) ![Firebase](https://img.icons8.com/color/30/firebase.png) ![REST API](https://img.icons8.com/color/30/api.png) ![React](https://img.icons8.com/color/30/react-native.png)
+- **Familiar:** ![SASS](https://img.icons8.com/color/30/sass.png) ![Node JS](https://img.icons8.com/color/30/nodejs.png) ![Python](https://img.icons8.com/color/30/python.png) ![PHP](https://img.icons8.com/color/30/php.png) ![Django](https://img.icons8.com/color/30/django.png) ![Mongoose](https://img.icons8.com/color/30/mongoose.png) ![Express JS](https://img.icons8.com/color/30/express.png) ![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png) ![Material-UI](https://img.icons8.com/color/30/material-ui.png)
 
 ### Tools
-- GitHub, VS Code, Brackets, Heroku, Netlify, Photoshop, Figma
+- ![GitHub](https://img.icons8.com/color/30/github.png) ![VS Code](https://img.icons8.com/color/30/visual-studio-code-2019.png) ![Brackets](https://img.icons8.com/color/30/brackets.png) ![Heroku](https://img.icons8.com/color/30/heroku.png) ![Netlify](https://img.icons8.com/color/30/netlify.png) ![Photoshop](https://img.icons8.com/color/30/adobe-photoshop.png) ![Figma](https://img.icons8.com/color/30/figma.png)
 
 ### Operating Systems
-- Windows (XP/ Windows 7, 8, 10), LINUX, Ubuntu
+- ![Windows](https://img.icons8.com/color/30/windows-logo.png) ![Linux](https://img.icons8.com/color/30/linux.png) ![Ubuntu](https://img.icons8.com/color/30/ubuntu.png)
 
 ### Microsoft Office
-- MS Word, MS Excel, MS PowerPoint
+- ![MS Word](https://img.icons8.com/color/30/microsoft-word-2019.png) ![MS Excel](https://img.icons8.com/color/30/microsoft-excel-2019.png) ![MS PowerPoint](https://img.icons8.com/color/30/microsoft-powerpoint-2019.png)
 
 ### Internet Technologies
-- E-mail, Internet Searching
+- ![Email](https://img.icons8.com/color/30/email.png) ![Internet Searching](https://img.icons8.com/color/30/google-web-search.png)
 
 ### Interpersonal Skills
-- Leadership, Project Management, Team Work, Communication, Negotiation
+- ![Leadership](https://img.icons8.com/color/30/leadership.png) ![Project Management](https://img.icons8.com/color/30/project-management.png) ![Team Work](https://img.icons8.com/color/30/teamwork.png) ![Communication](https://img.icons8.com/color/30/communication.png) ![Negotiation](https://img.icons8.com/color/30/negotiation.png)
 
 ## 📈 GitHub Stats
 ![Tamanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamannaSheme&show_icons=true&theme=radical)
@@ -60,25 +62,25 @@ I am a dedicated Software Engineer currently pursuing a Master of Technology in 
 ## 🚀 Projects
 ### [Gold Coast Convention Centre](https://tamannasheme.github.io/Gold_Coast_Convention-_Center/index.html)
 - **Description:** Users can see the service section, packages, FAQ, and wedding album sections. The website is fully responsive and users can book services.
-- **Technologies:** Bootstrap, Tailwind CSS, CSS, HTML
+- **Technologies:** ![Bootstrap](https://img.icons8.com/color/20/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/20/tailwindcss.png) ![CSS](https://img.icons8.com/color/20/css3.png) ![HTML](https://img.icons8.com/color/20/html-5.png)
 - [GitHub Repository](https://github.com/TamannaSheme/Gold_Coast_Convention-_Center)
 
 ### [Fruity](https://tamannasheme.github.io/FRUIT_WEBSITE/)
 - **Description:** Users can see new fruit items, shop featured items, and find fruits on sale.
-- **Technologies:** JavaScript, Bootstrap, Tailwind CSS, CSS, HTML
+- **Technologies:** ![JavaScript](https://img.icons8.com/color/20/javascript.png) ![Bootstrap](https://img.icons8.com/color/20/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/20/tailwindcss.png) ![CSS](https://img.icons8.com/color/20/css3.png) ![HTML](https://img.icons8.com/color/20/html-5.png)
 - [GitHub Repository](https://github.com/TamannaSheme/FRUIT_WEBSITE)
 
 ### [Organic Orchard](https://github.com/TamannaSheme/Organic-Orchard)
 - **Description:** Vegetables selling website with user and admin functionalities.
-- **Technologies:** PHP, JavaScript, Bootstrap, CSS, HTML
+- **Technologies:** ![PHP](https://img.icons8.com/color/20/php.png) ![JavaScript](https://img.icons8.com/color/20/javascript.png) ![Bootstrap](https://img.icons8.com/color/20/bootstrap.png) ![CSS](https://img.icons8.com/color/20/css3.png) ![HTML](https://img.icons8.com/color/20/html-5.png)
 
 ### [CovidCare](https://github.com/TamannaSheme/CovidCare)
 - **Description:** Covid-19 testing and doctor advice platform with multiple user roles.
-- **Technologies:** Python, Django, MySQL, Bootstrap, CSS, HTML
+- **Technologies:** ![Python](https://img.icons8.com/color/20/python.png) ![Django](https://img.icons8.com/color/20/django.png) ![MySQL](https://img.icons8.com/color/20/mysql.png) ![Bootstrap](https://img.icons8.com/color/20/bootstrap.png) ![CSS](https://img.icons8.com/color/20/css3.png) ![HTML](https://img.icons8.com/color/20/html-5.png)
 
 ### [Educational Website](https://tamannasheme.github.io/Educational-Website/)
 - **Description:** Users can see courses, prices, teacher details, and connect via social media.
-- **Technologies:** JavaScript, Bootstrap, Tailwind CSS, CSS, HTML
+- **Technologies:** ![JavaScript](https://img.icons8.com/color/20/javascript.png) ![Bootstrap](https://img.icons8.com/color/20/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/20/tailwindcss.png) ![CSS](https://img.icons8.com/color/20/css3.png) ![HTML](https://img.icons8.com/color/20/html-5.png)
 - [GitHub Repository](https://github.com/TamannaSheme/Educational-Website)
 
 ## 📫 Connect With Me
