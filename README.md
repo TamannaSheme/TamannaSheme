@@ -12,7 +12,7 @@ I am a dedicated Software Engineer currently pursuing a Master of Technology in 
 - **Familiar:** ![SASS](https://img.icons8.com/color/30/sass.png) ![Node JS](https://img.icons8.com/color/30/nodejs.png) ![Python](https://img.icons8.com/color/30/python.png) ![PHP](https://img.icons8.com/color/30/php.png) ![Django](https://img.icons8.com/color/30/django.png) ![Mongoose](https://img.icons8.com/color/30/mongoose.png) ![Express JS](https://img.icons8.com/color/30/express.png) ![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png) ![Material-UI](https://img.icons8.com/color/30/material-ui.png)
 
 ### Tools
-- ![GitHub](https://img.icons8.com/color/30/github.png) ![VS Code](https://img.icons8.com/color/30/visual-studio-code-2019.png) ![Brackets](https://img.icons8.com/color/30/brackets.png) ![Heroku](https://img.icons8.com/color/30/heroku.png) ![Netlify](https://img.icons8.com/color/30/netlify.png) ![Photoshop](https://img.icons8.com/color/30/adobe-photoshop.png) ![Figma](https://img.icons8.com/color/30/figma.png)
+- ![GitHub](https://img.icons8.com/color/30/github.png) ![VS Code](https://img.icons8.com/color/30/visual-studio-code-2019.png)  ![Heroku](https://img.icons8.com/color/30/heroku.png) [Photoshop](https://img.icons8.com/color/30/adobe-photoshop.png) ![Figma](https://img.icons8.com/color/30/figma.png)
 
 ### Operating Systems
 - ![Windows](https://img.icons8.com/color/30/windows-logo.png) ![Linux](https://img.icons8.com/color/30/linux.png) ![Ubuntu](https://img.icons8.com/color/30/ubuntu.png)
