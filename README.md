@@ -24,7 +24,7 @@ I am a dedicated Software Engineer currently pursuing a Master of Technology in 
 - ![Email](https://img.icons8.com/color/30/email.png) ![Internet Searching](https://img.icons8.com/color/30/google-web-search.png)
 
 ### Interpersonal Skills
-- ![Leadership](https://img.icons8.com/color/30/leadership.png) ![Project Management](https://img.icons8.com/color/30/project-management.png) ![Team Work](https://img.icons8.com/color/30/teamwork.png) ![Communication](https://img.icons8.com/color/30/communication.png) ![Negotiation](https://img.icons8.com/color/30/negotiation.png)
+- ![Leadership](https://img.icons8.com/color/30/leadership.png) ![Project Management](https://img.icons8.com/color/30/project-management.png) ![Team Work](https://img.icons8.com/color/30/teamwork.png) ![Communication](https://img.icons8.com/color/30/communication.png) 
 
 ## 📈 GitHub Stats
 ![Tamanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamannaSheme&show_icons=true&theme=radical)
