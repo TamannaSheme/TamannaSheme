@@ -91,4 +91,4 @@ I am a dedicated Software Engineer currently pursuing a Master of Technology in 
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=TamannaSheme.TamannaSheme)
+
