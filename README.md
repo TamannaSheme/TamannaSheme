@@ -1,4 +1,4 @@
-![Cover](https://path/to/your/uploaded/cover/photo.png)
+
 
 # 👋 Hi, I'm Syeda Tamanna Sheme!
 
