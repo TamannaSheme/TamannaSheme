@@ -7,12 +7,12 @@ I am a dedicated Software Engineer currently pursuing a Master of Technology in 
 
 ## 🛠 Skills
 ### Technologies
-- **Expertise:** ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![Bootstrap](https://img.icons8.com/color/30/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/30/tailwindcss.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![ES6](https://img.icons8.com/color/30/es6.png)
+- **Expertise:** ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![Bootstrap](https://img.icons8.com/color/30/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/30/tailwindcss.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 - **Comfortable:** ![C](https://img.icons8.com/color/30/c-programming.png) ![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png) ![MongoDB](https://img.icons8.com/color/30/mongodb.png) ![Firebase](https://img.icons8.com/color/30/firebase.png) ![REST API](https://img.icons8.com/color/30/api.png) ![React](https://img.icons8.com/color/30/react-native.png)
 - **Familiar:** ![SASS](https://img.icons8.com/color/30/sass.png) ![Node JS](https://img.icons8.com/color/30/nodejs.png) ![Python](https://img.icons8.com/color/30/python.png) ![PHP](https://img.icons8.com/color/30/php.png) ![Django](https://img.icons8.com/color/30/django.png) ![Mongoose](https://img.icons8.com/color/30/mongoose.png) ![Express JS](https://img.icons8.com/color/30/express.png) ![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png) ![Material-UI](https://img.icons8.com/color/30/material-ui.png)
 
 ### Tools
-- ![GitHub](https://img.icons8.com/color/30/github.png) ![VS Code](https://img.icons8.com/color/30/visual-studio-code-2019.png)  ![Heroku](https://img.icons8.com/color/30/heroku.png) [Photoshop](https://img.icons8.com/color/30/adobe-photoshop.png) ![Figma](https://img.icons8.com/color/30/figma.png)
+- ![GitHub](https://img.icons8.com/color/30/github.png) ![VS Code](https://img.icons8.com/color/30/visual-studio-code-2019.png)  ![Heroku](https://img.icons8.com/color/30/heroku.png) ![Figma](https://img.icons8.com/color/30/figma.png)
 
 ### Operating Systems
 - ![Windows](https://img.icons8.com/color/30/windows-logo.png) ![Linux](https://img.icons8.com/color/30/linux.png) ![Ubuntu](https://img.icons8.com/color/30/ubuntu.png)
